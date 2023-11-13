@@ -1,4 +1,5 @@
 from selenium import webdriver
+from  webdriver_manager.chrome import ChromeDriverManager
 from time import sleep
 driver = webdriver.Chrome()
 
@@ -12,8 +13,8 @@ print("Title = " + window_title)
 sleep(1)
 
 # browser Action 3 > go to Order
-# driver.find_element('id','OrderNowNavForTagmanager').click()
-# sleep(5)
+driver.find_element('id','OrderNowNavForTagmanager').click()
+sleep(5)
 
 # browser Action 4 > Refresh web
 # driver.refresh()
@@ -54,14 +55,15 @@ sleep(5)
 driver.set_window_position(0,0)
 sleep(2)
 
-# browser Action 11 > minimize Window
+# browser Action 12 > minimize Window
 driver.minimize_window()
 sleep(2)
-# browser Action 12 > maximize Window
+
+# browser Action 13 > maximize Window
 driver.maximize_window()
 sleep(2)
 
-# browser Action 13 > full screen Window
+# browser Action 14 > full screen Window
 driver.fullscreen_window()
 sleep(2)
 
