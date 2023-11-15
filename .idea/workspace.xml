@@ -5,23 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ffd8280-c096-4e63-879f-a97612b369ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebAppMembersgram/LoginMotherAccount.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebAppMembersgram/Register.motheraccount.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session1 - 3/blog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session1 - 3/loginTests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session1 - 3/session1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session1 - 3/session2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session1 - 3/session3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session1 - 3/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/session1 - 3/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/automationcampselenium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/session1 - 3/.idea/automationcampselenium.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/session1 - 3/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/session1 - 3/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/session1 - 3/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/session1 - 3/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/session1 - 3/Browser_Actions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -249,6 +233,8 @@
       <workItem from="1699856858629" duration="498000" />
       <workItem from="1699857373609" duration="3605000" />
       <workItem from="1699870789345" duration="572000" />
+      <workItem from="1699872324918" duration="204000" />
+      <workItem from="1699943669529" duration="1962000" />
     </task>
     <servers />
   </component>
