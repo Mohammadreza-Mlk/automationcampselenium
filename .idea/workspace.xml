@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0ffd8280-c096-4e63-879f-a97612b369ad" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppMembersgram/LoginMotherAccount.py" beforeDir="false" afterPath="$PROJECT_DIR$/WebAppMembersgram/LoginMotherAccount.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +59,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -67,7 +69,7 @@
       <recent name="C:\pnx\automationcampselenium\WebAppMembersgram" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Register.motheraccount (1)">
+  <component name="RunManager" selected="Python.LoginMotherAccount">
     <configuration name="Browser_Actions" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="automationcampselenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -202,8 +204,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Register.motheraccount (1)" />
         <item itemvalue="Python.LoginMotherAccount" />
+        <item itemvalue="Python.Register.motheraccount (1)" />
         <item itemvalue="Python.blog" />
         <item itemvalue="Python.Register.motheraccount" />
       </list>
@@ -235,6 +237,13 @@
       <workItem from="1699870789345" duration="572000" />
       <workItem from="1699872324918" duration="204000" />
       <workItem from="1699943669529" duration="1962000" />
+      <workItem from="1700028278271" duration="539000" />
+      <workItem from="1700295170406" duration="21000" />
+      <workItem from="1700295206793" duration="19000" />
+      <workItem from="1700296190603" duration="53000" />
+      <workItem from="1700371180733" duration="5942000" />
+      <workItem from="1700380176559" duration="3201000" />
+      <workItem from="1700384724203" duration="1744000" />
     </task>
     <servers />
   </component>
@@ -254,7 +263,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/automationcampselenium$test.coverage" NAME="test Coverage Results" MODIFIED="1699780837474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/automationcampselenium$LoginMotherAccount.coverage" NAME="LoginMotherAccount Coverage Results" MODIFIED="1699870813064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebAppMembersgram" />
+    <SUITE FILE_PATH="coverage/automationcampselenium$LoginMotherAccount.coverage" NAME="LoginMotherAccount Coverage Results" MODIFIED="1700387106574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebAppMembersgram" />
     <SUITE FILE_PATH="coverage/automationcampselenium$main.coverage" NAME="main Coverage Results" MODIFIED="1697533187955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/automationcampselenium$Register_motheraccount.coverage" NAME="Register.motheraccount Coverage Results" MODIFIED="1699856861683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/automationcampselenium$blog__1_.coverage" NAME="blog (1) Coverage Results" MODIFIED="1699861700812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/session1 - 3" />
@@ -262,6 +271,6 @@
     <SUITE FILE_PATH="coverage/automationcampselenium$Browser_Actions.coverage" NAME="Browser_Actions Coverage Results" MODIFIED="1697610768058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/automationcampselenium$Login.coverage" NAME="Login Coverage Results" MODIFIED="1699782900738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/automationcampselenium$loginTests.coverage" NAME="loginTests Coverage Results" MODIFIED="1699852797092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/session1 - 3" />
-    <SUITE FILE_PATH="coverage/automationcampselenium$Register_motheraccount__1_.coverage" NAME="Register.motheraccount (1) Coverage Results" MODIFIED="1699871110962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebAppMembersgram" />
+    <SUITE FILE_PATH="coverage/automationcampselenium$Register_motheraccount__1_.coverage" NAME="Register.motheraccount (1) Coverage Results" MODIFIED="1700378965441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebAppMembersgram" />
   </component>
 </project>

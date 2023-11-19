@@ -1,17 +1,38 @@
 from selenium import webdriver
-from webdriver_manager.chrome import ChromeDriverManager
 from time import sleep
-import os
-from pathlib import Path
-
+from selenium.webdriver.common.keys import Keys
 driver = webdriver.Chrome()
 
 driver.get("http://192.168.1.186:3000/Login")
-sleep(3)
+sleep(2)
 
-driver.find_element('id', "outlined-basic").click()
-driver.find_element('id', "outlined-basic").send_keys('hllo@gmail.com')
-driver.find_element('id', "password").click()
-driver.find_element('id', "password").send_keys("1212121212")
-driver.find_element('xpath', "//button[text()='Login']").click()
+EmailBOx = driver.find_element('id', "outlined-basic")
+PasswordBox = driver.find_element('id', "password")
+loginButton = driver.find_element('xpath', "//button[text()='Login']")
+
+# ############## Email & password is incorrect
+
+
+EmailBOx.click()
+EmailBOx.send_keys('incorrect@gmail.com')
+PasswordBox.click()
+PasswordBox.send_keys("1212121212")
+loginButton.click()
+sleep(5)
+
+# ############## ٍEmail correct & password is incorrect
+EmailBOx_Error = driver.find_element('xpath', "//input[@id='outlined-error-helper-text']")
+EmailBOx_Error.click()
+
+EmailBOx_Error.send_keys(Keys.BACKSPACE)
+
+EmailBOx_Error.send_keys(Keys.CONTROL + "a")
+
+EmailBOx_Error.send_keys("testphoenixmlk@gmail.com")
+sleep(2)
+
+loginButton.click()
+
+sleep(3)
+# ############## ٍEmail  & password is correct
 sleep(10)
