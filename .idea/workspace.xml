@@ -5,14 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ffd8280-c096-4e63-879f-a97612b369ad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Locators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pages/Login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pages/MainPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/LoginTests.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebAppMembersgram/LoginMotherAccount.py" beforeDir="false" afterPath="$PROJECT_DIR$/WebAppMembersgram/LoginMotherAccount.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Login.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session1 - 3/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Archive/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session1 - 3/.idea/automationcampselenium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Archive/.idea/automationcampselenium.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session1 - 3/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Archive/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session1 - 3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Archive/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session1 - 3/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Archive/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session1 - 3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Archive/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session1 - 3/Browser_Actions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Archive/Browser_Actions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session1 - 3/loginTests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Archive/loginTests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session1 - 3/session1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Archive/session1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session1 - 3/session2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Archive/session2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session1 - 3/session3.png" beforeDir="false" afterPath="$PROJECT_DIR$/Archive/session3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session1 - 3/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Archive/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExportTestResults" outputFolder="$USER_HOME$/OneDrive/Desktop" userTempatePath="" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -68,8 +85,13 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\pnx\automationcampselenium\WebAppMembersgram" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\pnx\automationcampselenium\Tests" />
+      <recent name="C:\pnx\automationcampselenium" />
+      <recent name="C:\pnx\automationcampselenium\Pages" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.LoginMotherAccount">
+  <component name="RunManager" selected="Python tests.Python tests for LoginTests.LoginTests">
     <configuration name="Browser_Actions" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="automationcampselenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -84,94 +106,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="C:\pnx\automationcampselenium\Browser_Actions.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="LoginMotherAccount" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="automationcampselenium" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WebAppMembersgram" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WebAppMembersgram/LoginMotherAccount.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Register.motheraccount (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="automationcampselenium" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WebAppMembersgram" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WebAppMembersgram/Register.motheraccount.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Register.motheraccount" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="automationcampselenium" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Register.motheraccount.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="blog" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="automationcampselenium" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/session1 - 3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/session1 - 3/blog.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,12 +136,113 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="LoginTests" type="tests" factoryName="Unittests">
+      <module name="automationcampselenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Tests.LoginTests&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for LoginTests.LoginTests" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="automationcampselenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;LoginTests.LoginTests&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for LoginTests.LoginTests.test1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="automationcampselenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;LoginTests.LoginTests.test1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for LoginTests.LoginTests.test2" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="automationcampselenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;LoginTests.LoginTests.test2&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for LoginTests.LoginTests.test_invalid_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="automationcampselenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;LoginTests.LoginTests.test_invalid_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for LoginTests.LoginTests.test_valid_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="automationcampselenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;LoginTests.LoginTests.test_valid_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Browser_Actions" />
+      <item itemvalue="Python tests.LoginTests" />
+      <item itemvalue="Python tests.Python tests for LoginTests.LoginTests" />
+      <item itemvalue="Python tests.Python tests for LoginTests.LoginTests.test1" />
+      <item itemvalue="Python tests.Python tests for LoginTests.LoginTests.test2" />
+      <item itemvalue="Python tests.Python tests for LoginTests.LoginTests.test_invalid_login" />
+      <item itemvalue="Python tests.Python tests for LoginTests.LoginTests.test_valid_login" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.LoginMotherAccount" />
-        <item itemvalue="Python.Register.motheraccount (1)" />
-        <item itemvalue="Python.blog" />
-        <item itemvalue="Python.Register.motheraccount" />
+        <item itemvalue="Python tests.Python tests for LoginTests.LoginTests" />
+        <item itemvalue="Python tests.Python tests for LoginTests.LoginTests.test2" />
+        <item itemvalue="Python tests.Python tests for LoginTests.LoginTests.test1" />
+        <item itemvalue="Python tests.Python tests for LoginTests.LoginTests.test_invalid_login" />
+        <item itemvalue="Python tests.Python tests for LoginTests.LoginTests.test_valid_login" />
       </list>
     </recent_temporary>
   </component>
@@ -243,7 +278,9 @@
       <workItem from="1700296190603" duration="53000" />
       <workItem from="1700371180733" duration="5942000" />
       <workItem from="1700380176559" duration="3201000" />
-      <workItem from="1700384724203" duration="1744000" />
+      <workItem from="1700384724203" duration="3410000" />
+      <workItem from="1700456415431" duration="3816000" />
+      <workItem from="1700545813140" duration="12047000" />
     </task>
     <servers />
   </component>
@@ -263,13 +300,16 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/automationcampselenium$test.coverage" NAME="test Coverage Results" MODIFIED="1699780837474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/automationcampselenium$LoginMotherAccount.coverage" NAME="LoginMotherAccount Coverage Results" MODIFIED="1700387106574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebAppMembersgram" />
+    <SUITE FILE_PATH="coverage/automationcampselenium$LoginMotherAccount.coverage" NAME="LoginMotherAccount Coverage Results" MODIFIED="1700387169818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebAppMembersgram" />
+    <SUITE FILE_PATH="coverage/automationcampselenium$LoginTests.coverage" NAME="LoginTests Coverage Results" MODIFIED="1700551502661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/automationcampselenium$main.coverage" NAME="main Coverage Results" MODIFIED="1697533187955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/automationcampselenium$Register_motheraccount.coverage" NAME="Register.motheraccount Coverage Results" MODIFIED="1699856861683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/automationcampselenium$LoginTests__1_.coverage" NAME="LoginTests (1) Coverage Results" MODIFIED="1700553496355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
     <SUITE FILE_PATH="coverage/automationcampselenium$blog__1_.coverage" NAME="blog (1) Coverage Results" MODIFIED="1699861700812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/session1 - 3" />
     <SUITE FILE_PATH="coverage/automationcampselenium$blog.coverage" NAME="blog Coverage Results" MODIFIED="1699861738990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/session1 - 3" />
+    <SUITE FILE_PATH="coverage/automationcampselenium$Login.coverage" NAME="Login Coverage Results" MODIFIED="1700553491023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pages" />
+    <SUITE FILE_PATH="coverage/automationcampselenium$Register_motheraccount.coverage" NAME="Register.motheraccount Coverage Results" MODIFIED="1699856861683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/automationcampselenium$.coverage" NAME=" Coverage Results" MODIFIED="1700559893980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
     <SUITE FILE_PATH="coverage/automationcampselenium$Browser_Actions.coverage" NAME="Browser_Actions Coverage Results" MODIFIED="1697610768058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/automationcampselenium$Login.coverage" NAME="Login Coverage Results" MODIFIED="1699782900738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/automationcampselenium$loginTests.coverage" NAME="loginTests Coverage Results" MODIFIED="1699852797092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/session1 - 3" />
     <SUITE FILE_PATH="coverage/automationcampselenium$Register_motheraccount__1_.coverage" NAME="Register.motheraccount (1) Coverage Results" MODIFIED="1700378965441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebAppMembersgram" />
   </component>
